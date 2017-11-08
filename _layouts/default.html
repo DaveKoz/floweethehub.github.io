@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+
+{% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    <section class="page-header">
+      <img src="/img/flowee-logo.png" width="250" height="164" alt="Flowee The Hub"/>
+      <h2 class="project-tagline">The shortest path to Bitcoin</h2>
+    </section>
+
+    <section class="main-content">
+      {{ content }}
+
+      <footer class="site-footer">
+        <div>Flowee The Hub is a Free and Open Source product. <a href="https://github.com/floweethehub/hub">GitHub</a>, <a href="https://twitter.com/floweethehub">Twitter</a>, <a href="https://reddit.com/r/flowee">Reddit</a>.
+        </div>
+      </footer>
+    </section>
+  </body>
+</html>
