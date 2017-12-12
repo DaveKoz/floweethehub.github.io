@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/tomz
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://flowee.org
+  * I am tomz (https://keybase.io/tomz) on keybase.
+  * I have a public key ASBBBREEKvlAz7s773zeaPzqLsWG1Uqh_kLcnitYMqf9Ggo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c982344f754bba23705d98203dec5b778d22b978354e5d96765f7a94b1867e570a",
+      "host": "keybase.io",
+      "kid": "0120410511042af940cfbb3bef7cde68fcea2ec586d54aa1fe42dc9e2b5832a7fd1a0a",
+      "uid": "242d04608ced3cc38de107d4da219819",
+      "username": "tomz"
+    },
+    "merkle_root": {
+      "ctime": 1513081207,
+      "hash": "bb3ca1a612b5774bd5391c307e4e32eedafd0236958fe1e8b633980b4559a620083425d4dd939e28b2c925f3a908492b8303b30ecc7b6a83be8fc88bd7769862",
+      "hash_meta": "220f6b6273488c02eea41299743209b034bf7bdd9764563ac0d545e21df84c24",
+      "seqno": 1807259
+    },
+    "service": {
+      "hostname": "flowee.org",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.37"
+  },
+  "ctime": 1513081243,
+  "expire_in": 504576000,
+  "prev": "023aa9e144a515ee4b202f0e9761efa0eb90c91a8a777cc3371e456aff599e23",
+  "seqno": 84,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgQQURBCr5QM+7O+983mj86i7FhtVKof5C3J4rWDKn/RoKp3BheWxvYWTFAz57ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYzk4MjM0NGY3NTRiYmEyMzcwNWQ5ODIwM2RlYzViNzc4ZDIyYjk3ODM1NGU1ZDk2NzY1ZjdhOTRiMTg2N2U1NzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNDEwNTExMDQyYWY5NDBjZmJiM2JlZjdjZGU2OGZjZWEyZWM1ODZkNTRhYTFmZTQyZGM5ZTJiNTgzMmE3ZmQxYTBhIiwidWlkIjoiMjQyZDA0NjA4Y2VkM2NjMzhkZTEwN2Q0ZGEyMTk4MTkiLCJ1c2VybmFtZSI6InRvbXoifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MTMwODEyMDcsImhhc2giOiJiYjNjYTFhNjEyYjU3NzRiZDUzOTFjMzA3ZTRlMzJlZWRhZmQwMjM2OTU4ZmUxZThiNjMzOTgwYjQ1NTlhNjIwMDgzNDI1ZDRkZDkzOWUyOGIyYzkyNWYzYTkwODQ5MmI4MzAzYjMwZWNjN2I2YTgzYmU4ZmM4OGJkNzc2OTg2MiIsImhhc2hfbWV0YSI6IjIyMGY2YjYyNzM0ODhjMDJlZWE0MTI5OTc0MzIwOWIwMzRiZjdiZGQ5NzY0NTYzYWMwZDU0NWUyMWRmODRjMjQiLCJzZXFubyI6MTgwNzI1OX0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJmbG93ZWUub3JnIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zNyJ9LCJjdGltZSI6MTUxMzA4MTI0MywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiIwMjNhYTllMTQ0YTUxNWVlNGIyMDJmMGU5NzYxZWZhMGViOTBjOTFhOGE3NzdjYzMzNzFlNDU2YWZmNTk5ZTIzIiwic2Vxbm8iOjg0LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQJuLTfOPynBHWYeCfwDqVfUxjC9zB3uYD+y75FwdhGGm4CIAtcQ9RDGUorIPvKpbErZ7o8xFyDP2tYtFbYR+nA+oc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCCET9m5HhK8LjN/PNHqWNUuh2wMKaY7niBxAG4dX8nopqN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tomz
+
+==================================================================
