@@ -87,3 +87,11 @@ Cash on yours.org; [Part
 [Part
 2](https://www.yours.org/content/on-the-path-to-freedom-of-innovation--2--a71d2fb53ce3).
 
+## How can I help?
+
+I hope others feel this is a worthy goal and are willing to help me out,
+more people are needed to bring these dreams to reality.
+
+People willing to help out with the code, the website, public relations or
+anything else you might be good at are welcome, or just a small [donation](donations.md) to
+show this is actually appreciated by others than just me.
