@@ -1,6 +1,6 @@
-# Building a Hub that connects you to Bitcoin
+# Building a Hub that connects you to Bitcoin (BCH)
 
-As the first and most valuable crypto currency in existence Bitcoin is
+As the first and most valuable crypto currency in existence Bitcoin (BCH) is
 still a mysterious black box to most companies that would potentially want
 to use it or build applications on top of.
 
