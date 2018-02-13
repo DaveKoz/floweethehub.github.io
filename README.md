@@ -47,8 +47,7 @@ or extend this software as you please.
 
 Flowee is Free and Open Source Software (FOSS), you can use it for free (as
 in beer), but the important freedom we are talking about is that anyone can
-change it or simply run it. Flowee will remain perpetually give you that
-freedom.
+change it or simply run it. Flowee will give you that freedom.
 
 Flowee gives you a large amount of information and power to extend the
 Bitcoin ideas of peer to peer payments with no intermediate party and
